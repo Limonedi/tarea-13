@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tarea13';
+  texto!: string;
+  valor = 0;
+  moneda = 'USD';
 }
